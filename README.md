@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋 I'm Harsha Prasad</h1>
-<h3 align="center">💡 Blending creativity with code to build the modern web</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi👋,+I'm+Harsha+Prasad;Web+Design+Enthusiast|+SQL+%26+Python+Learner;&width=700&size=24&duration=4000&pause=1000&center=true&vCenter=true)](https://github.com/HarshaPrasad)
 - 🔭 I’m currently working on **👨‍💻Transforming ideas into interactive & engaging digital experiences**
 
 - 🌱 I’m currently learning **📚 React,and backend basics with Node.js**
